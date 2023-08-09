@@ -1,0 +1,65 @@
+.mystayle{
+background-color: rgb(59, 60, 60);
+
+}
+
+.div-button{
+  
+    width: 100%;
+    display: flex;
+justify-content: center;
+
+}
+.imgclass{
+display: flex;
+width: 100vw;
+height: 50vh;
+
+
+justify-content:space-around;
+align-content: flex-end;
+
+}
+img{
+    width: 80%;
+    height: 25%;
+    margin: 5px;
+}
+
+.imgf {
+    width: 15vw;
+
+display: flex;
+flex-direction: row;
+align-items: flex-end;
+}
+li{
+    list-style: none;
+    
+}
+.h12{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.p1{
+
+    font-size:12px ;
+}
+.textBack{
+
+    background-color: rgb(209, 170, 126);
+}
+
+
+.dd{
+background-image: none;
+
+}
+
+#img1{
+    display: none;
+}
